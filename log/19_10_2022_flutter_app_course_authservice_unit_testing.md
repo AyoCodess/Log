@@ -8,7 +8,3 @@
 
 - Built auth service to de-couple from UI.
 - Went over the logic of separating concerns and wrapping library's/packages with an front-end api service of my own.
-
-### Questions
-
-- If we create mock classes and test against them, then we are not actually testing our real code? What is the value of creating mock classes?
